@@ -22,6 +22,9 @@ This project uses a 6-DOF Kinova Gen3 Lite robotic arm with a 2-finger gripper t
 - Intelligent release timing based on joint angle monitoring
 - Open-loop control with consistent accuracy
 
+## Featured
+[Featured by Duke MEMS on LinkedIn](https://www.linkedin.com/posts/duke-mems_dukemems-dukeengineering-robotics-activity-7440863430586224640-uJIB)
+
 ## Demo
 
 <p align="center">
