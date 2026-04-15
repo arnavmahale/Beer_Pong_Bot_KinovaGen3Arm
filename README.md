@@ -15,15 +15,15 @@ https://github.com/user-attachments/assets/74468b8c-d71d-403c-bb11-c0e4a3d168cd
 
 This project uses a 6-DOF Kinova Gen3 Lite robotic arm with a 2-finger gripper to autonomously pick up ping pong balls and throw them at beer pong cups with high speed and precision. The system achieves throwing distances of **3.5-4.0 meters** using optimized joint trajectories and carefully timed gripper release.
 
+## Featured
+[Featured by Duke MEMS on LinkedIn](https://www.linkedin.com/posts/duke-mems_dukemems-dukeengineering-robotics-activity-7440863430586224640-uJIB)
+
 ### Key Highlights
 - Autonomous ball pickup and throwing
 - High-speed precision trajectories (4.5 rad/s)
 - Multi-cup sequential targeting
 - Intelligent release timing based on joint angle monitoring
 - Open-loop control with consistent accuracy
-
-## Featured
-[Featured by Duke MEMS on LinkedIn](https://www.linkedin.com/posts/duke-mems_dukemems-dukeengineering-robotics-activity-7440863430586224640-uJIB)
 
 ## Demo
 
